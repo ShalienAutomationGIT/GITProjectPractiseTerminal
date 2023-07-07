@@ -6,8 +6,10 @@ public class Test1 {
 		
 		
 		String str = "GIT Practise using terminal commands";
+		String str1 = "Modifying Files";
 		
 		System.out.println(str);
+		System.out.println(str1);
 		
 		
 	}
